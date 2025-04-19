@@ -59,8 +59,8 @@
 
 ### Award
 |대회명|수상내용|프로젝트명|설명|역할|사용기술|
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|:----:|:----:|:--:|:------:|:----:|:----:|
 |SSAFY 1학기 관통프로젝트|최우수|홈넥트|소요시간 기반 아파트 매물 검색 서비스|화면 설계, 공지사항 및 회원관리, 검색 기능 구현|Vue3, Vuetify, tailwind Css|
 |SSAFY 2학기 공통프로젝트|우수|VOPLE|중고등학생을 위한 선거관리 플랫폼|채팅 및 선거관리 API 개발, 사용자 인증 관리|Spring Boot, Spring Security, JPA, Redis|
-
+|SSAFY 2학기 특화프로젝트|우수|Recipedia|생성형 AI를 활용한 냉장고 재료 기반 레시피 추천 서비스|인프라 구축 및 관리, 식재료 API 구현|Docker, Jenkins, Spring Boot, JPA, QueryDSL|
 
